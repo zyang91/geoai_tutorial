@@ -1,6 +1,6 @@
 # `geoai` package tutorial
 
-## Acknowledgement
+## Acknowledgments
 [`geoai` package](https://opengeoai.org/)
 
 geoai notebook example
