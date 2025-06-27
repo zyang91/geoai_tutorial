@@ -4,4 +4,3 @@
 [`geoai` package](https://opengeoai.org/)
 
 geoai notebook example
-
